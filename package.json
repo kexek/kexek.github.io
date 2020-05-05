@@ -18,6 +18,7 @@
     "react-scripts": "3.4.1",
     "readux": "^1.0.0"
   },
+  "homepage": "https://kexek.github.io/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
